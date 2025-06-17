@@ -24,7 +24,7 @@ score_indicators = {
 }
 
 explore_indicators = {
-    "GDP (current $ Billion)": "NY.GDP.MKTP.CD",
+    "GDP ($ Billion)": "NY.GDP.MKTP.CD",
     "Inflation (% annual)": "FP.CPI.TOTL.ZG",
     "Population": "SP.POP.TOTL",
     "Unemployment (% of labor force)": "SL.UEM.TOTL.ZS",
